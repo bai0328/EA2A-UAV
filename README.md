@@ -31,7 +31,7 @@ The platform prioritizes maximum computing power while maintaining flight maneuv
 The EA2A-UAV (Embedded Airborne-to-Air UAV) dataset captures the coupled egomotion and target motion inherent to UAV-to-UAV engagements.
 
 - **Scale**: 22 sequences, 14,836 frames.
-- **Resolution**: 640 x 480 @ 60 FPS.
+- **Resolution**: 640 x 480 @ 30 FPS.
 - **Attributes**: Fast Movement (FM), Motion Blur (MB), Out-of-View (OV), Background Clutter, etc.
 
 ![Data Examples](./figures/data%20example.png)
