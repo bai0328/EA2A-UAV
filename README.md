@@ -56,7 +56,4 @@ Evaluation of representative lightweight trackers on the Jetson Orin NX module u
 
 ## Availability
 
-- **Dataset & Code**: Coming soon.
-
----
-© 2026 Sun Yat-sen University. All rights reserved.
+- **Dataset**: Coming soon.
